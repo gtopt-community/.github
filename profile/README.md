@@ -12,6 +12,8 @@ backends (HiGHS, CPLEX, Gurobi, MindOpt, SCIP, CBC/CLP, cuOpt).
   [LICENSING.md](https://github.com/gtopt-community/gtopt/blob/master/LICENSING.md).
 - Contributing: [CONTRIBUTING.md](https://github.com/gtopt-community/gtopt/blob/master/CONTRIBUTING.md)
   (a CLA is required for pull requests).
+- Publications: [PUBLICATIONS.md](https://github.com/gtopt-community/gtopt/blob/master/PUBLICATIONS.md),
+  starting with the FESOP paper ([IEEE KPEC 2022](https://doi.org/10.1109/KPEC54747.2022.9814781)).
 - Questions and ideas: [Discussions](https://github.com/gtopt-community/gtopt/discussions).
 - Support and maintenance: Black Bear Engineering SpA.
 
