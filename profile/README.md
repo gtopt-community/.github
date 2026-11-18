@@ -1,7 +1,7 @@
 # GTOpt Community
 
 <img src="banner.png" width="100%"
-     alt="GTOpt Community: open-source power-system planning / planificación abierta de sistemas eléctricos. Expansion planning, SDDP, UC/OPF.">
+     alt="GTOpt Community: open-source energy-system optimization / optimización abierta de sistemas energéticos. Electricity, water, fuels, hydrogen, ammonia and heat, from 15 minutes to 30 years.">
 
 **GTOpt** is an open-source optimizer for **planning and operating
 energy systems**: generation, transmission, storage and demand expansion,
