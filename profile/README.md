@@ -40,9 +40,19 @@ across horizons.
 
 ### Repositories
 
-| Repository | What it is |
-|---|---|
-| [gtopt](https://github.com/gtopt-community/gtopt) | The solver, Python tools, browser GUI and web service |
+We are starting with **[gtopt](https://github.com/gtopt-community/gtopt)**,
+the optimization core for operating and investing in energy systems. More
+modules are on the way:
+
+| Repository | What it is | Status |
+|---|---|---|
+| [gtopt](https://github.com/gtopt-community/gtopt) | Optimization core for the operation and expansion of energy systems: solver, Python tools, browser GUI and web service | Available |
+| gtopt-obs-cl | Observatory of the Chilean electricity market: tools to observe, reproduce and analyse the daily dispatch of the SEN | Coming soon |
+| gtopt-bidmark | Bid-based market platform | Coming soon |
+| gtopt-latam | Short- and long-term cases for the countries of the region | Coming soon |
+
+These modules, and others developed together with the user community,
+will be published in this organization.
 
 ### Get started
 
@@ -82,6 +92,21 @@ SDDP; y predespacho y despacho.
   en JSON y Parquet.
 - **Próximo paso**: mercados con ofertas (energía y servicios
   complementarios, suficiencia, derechos de transmisión).
+
+**Repositorios.** Partimos con
+**[gtopt](https://github.com/gtopt-community/gtopt)**, el núcleo de
+optimización de la operación e inversión de sistemas energéticos. Pronto
+vienen:
+
+- **gtopt-obs-cl**: el observatorio del mercado eléctrico chileno, con
+  herramientas para observar, reproducir y analizar el despacho diario
+  del SEN.
+- **gtopt-bidmark**: plataforma de mercado de ofertas.
+- **gtopt-latam**: casos de corto y largo plazo de los países de la
+  región.
+
+Estos módulos, y otros que se desarrollen con la comunidad de usuarios,
+se incorporarán en esta organización.
 
 Las contribuciones son bienvenidas; las preguntas pueden hacerse en
 español en
