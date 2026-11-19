@@ -75,7 +75,10 @@ will be published in this organization.
   and related work
 - [Who uses GTOpt](https://github.com/gtopt-community/gtopt/blob/master/USERS.md):
   add your organization or group
-- Support, maintenance and training: Black Bear Engineering SpA
+- [Friends and collaborators](https://github.com/gtopt-community/gtopt/blob/master/FRIENDS.md)
+- [Service providers](https://github.com/gtopt-community/gtopt/blob/master/PROVIDERS.md):
+  maintenance, development and consulting by
+  [Black Bear Engineering SpA](https://www.blackbeareng.cl)
 
 ---
 
@@ -124,7 +127,12 @@ comparación con el programa diario del CEN. Más publicaciones en
 [PUBLICATIONS.md](https://github.com/gtopt-community/gtopt/blob/master/PUBLICATIONS.md).
 
 ¿Usas GTOpt? Agrega tu organización o grupo en
-[USERS.md](https://github.com/gtopt-community/gtopt/blob/master/USERS.md).
+[USERS.md](https://github.com/gtopt-community/gtopt/blob/master/USERS.md). Los amigos y colaboradores del
+proyecto están en
+[FRIENDS.md](https://github.com/gtopt-community/gtopt/blob/master/FRIENDS.md),
+y los servicios de mantenimiento, desarrollo y consultoría, de
+[Black Bear Engineering](https://www.blackbeareng.cl), en
+[PROVIDERS.md](https://github.com/gtopt-community/gtopt/blob/master/PROVIDERS.md).
 
 Las contribuciones son bienvenidas; las preguntas pueden hacerse en
 español en
