@@ -73,6 +73,8 @@ will be published in this organization.
   the white paper, the FESOP paper
   ([IEEE KPEC 2022](https://doi.org/10.1109/KPEC54747.2022.9814781))
   and related work
+- [Who uses GTOpt](https://github.com/gtopt-community/gtopt/blob/master/USERS.md):
+  add your organization or group
 - Support, maintenance and training: Black Bear Engineering SpA
 
 ---
@@ -120,6 +122,9 @@ to Decades*](https://github.com/gtopt-community/gtopt/blob/master/docs/white_pap
 (preprint, 2026), con la formulación, los métodos, la validación y la
 comparación con el programa diario del CEN. Más publicaciones en
 [PUBLICATIONS.md](https://github.com/gtopt-community/gtopt/blob/master/PUBLICATIONS.md).
+
+¿Usas GTOpt? Agrega tu organización o grupo en
+[USERS.md](https://github.com/gtopt-community/gtopt/blob/master/USERS.md).
 
 Las contribuciones son bienvenidas; las preguntas pueden hacerse en
 español en
