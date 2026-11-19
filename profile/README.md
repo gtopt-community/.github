@@ -64,9 +64,15 @@ will be published in this organization.
 - [Licensing](https://github.com/gtopt-community/gtopt/blob/master/LICENSING.md):
   AGPL-3.0-or-later with a solver plugin exception, or a commercial
   licence; the Extension SDK is Apache-2.0
-- [Publications](https://github.com/gtopt-community/gtopt/blob/master/PUBLICATIONS.md),
-  starting with the FESOP paper
+- **[White paper](https://github.com/gtopt-community/gtopt/blob/master/docs/white_paper/main.pdf)**:
+  *GTOpt: Open-Source Energy-System Optimization, Consistent from
+  Minutes to Decades* (preprint, 2026): formulation, methods,
+  multi-scale coupling, validation and the comparison with the Chilean
+  daily schedule
+- [Publications](https://github.com/gtopt-community/gtopt/blob/master/PUBLICATIONS.md):
+  the white paper, the FESOP paper
   ([IEEE KPEC 2022](https://doi.org/10.1109/KPEC54747.2022.9814781))
+  and related work
 - Support, maintenance and training: Black Bear Engineering SpA
 
 ---
@@ -107,6 +113,13 @@ vienen:
 
 Estos módulos, y otros que se desarrollen con la comunidad de usuarios,
 se incorporarán en esta organización.
+
+**White paper.** La referencia del proyecto es
+[*GTOpt: Open-Source Energy-System Optimization, Consistent from Minutes
+to Decades*](https://github.com/gtopt-community/gtopt/blob/master/docs/white_paper/main.pdf)
+(preprint, 2026), con la formulación, los métodos, la validación y la
+comparación con el programa diario del CEN. Más publicaciones en
+[PUBLICATIONS.md](https://github.com/gtopt-community/gtopt/blob/master/PUBLICATIONS.md).
 
 Las contribuciones son bienvenidas; las preguntas pueden hacerse en
 español en
