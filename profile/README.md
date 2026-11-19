@@ -77,7 +77,8 @@ will be published in this organization.
   add your organization or group
 - [Friends and collaborators](https://github.com/gtopt-community/gtopt/blob/master/FRIENDS.md)
 - [Service providers](https://github.com/gtopt-community/gtopt/blob/master/PROVIDERS.md):
-  maintenance, development and consulting by
+  maintenance and development of GTOpt, and energy studies and
+  consulting, by
   [Black Bear Engineering SpA](https://www.blackbeareng.cl)
 
 ---
@@ -130,7 +131,8 @@ comparación con el programa diario del CEN. Más publicaciones en
 [USERS.md](https://github.com/gtopt-community/gtopt/blob/master/USERS.md). Los amigos y colaboradores del
 proyecto están en
 [FRIENDS.md](https://github.com/gtopt-community/gtopt/blob/master/FRIENDS.md),
-y los servicios de mantenimiento, desarrollo y consultoría, de
+y los servicios de mantenimiento y desarrollo de GTOpt, y de estudios
+y consultorías en energía, de
 [Black Bear Engineering](https://www.blackbeareng.cl), en
 [PROVIDERS.md](https://github.com/gtopt-community/gtopt/blob/master/PROVIDERS.md).
 
