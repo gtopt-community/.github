@@ -24,7 +24,7 @@ across horizons.
 - **National scale**: built and validated on the Chilean national system
   (SEN), with its network, hydro cascades and irrigation agreements;
   [real cases](https://github.com/gtopt-community/gtopt-cases) from
-  Chile, Guatemala, Peru and Poland are public.
+  Australia, Chile, Guatemala, Ireland, Peru and Poland are public.
 - **Storage and water values**: reservoirs, cascades, pumped hydro and
   batteries, with water values and opportunity costs per block.
 - **Emissions**: CO₂-eq and local pollutants, caps and prices by zone,
@@ -52,7 +52,7 @@ power-system cases ready to run with it. More modules are on the way:
 | [gtopt](https://github.com/gtopt-community/gtopt) | Optimization core for the operation and expansion of energy systems: solver, Python tools, browser GUI and web service | Available |
 | gtopt-obs-cl | Observatory of the Chilean electricity market: tools to observe, reproduce and analyse the daily dispatch of the SEN | Coming soon |
 | gtopt-bidmark | Bid-based market platform | Coming soon |
-| [gtopt-cases](https://github.com/gtopt-community/gtopt-cases) | Real power-system cases built from data published by system operators: Chile (14 daily unit commitments, SDDP of 2, 5 and 23 years with the Laja and Maule irrigation agreements), Guatemala (NCP dispatch, PSS®E network, annual SDDP), Peru (COES SDDP 2026-2029) and Poland (3,374-bus DC OPF). Inputs only | Available |
+| [gtopt-cases](https://github.com/gtopt-community/gtopt-cases) | Real power-system cases built from data published by system operators: Australia (NEM week from the AEMO 2026 ISP), Chile (14 daily unit commitments, SDDP of 2, 5 and 23 years with the Laja and Maule irrigation agreements, the CEN PET 2027 transmission planning bases), Guatemala (NCP dispatch, PSS®E network, annual SDDP), Ireland (SEM unit-commitment week, fetched and converted on demand), Peru (COES SDDP 2026-2029) and Poland (3,374-bus DC OPF). Inputs only | Available |
 
 These modules, and others developed together with the user community,
 will be published in this organization.
@@ -62,7 +62,7 @@ will be published in this organization.
 - [README and quick start](https://github.com/gtopt-community/gtopt#quick-start)
 - [Documentation](https://gtopt-community.github.io/gtopt/)
 - [Real cases to run: gtopt-cases](https://github.com/gtopt-community/gtopt-cases)
-  (Chile, Guatemala, Peru, Poland)
+  (Australia, Chile, Guatemala, Ireland, Peru, Poland)
 - [Questions and ideas: Discussions](https://github.com/gtopt-community/gtopt/discussions)
   ([announcements](https://github.com/gtopt-community/gtopt/discussions/categories/announcements))
 - [Contributing](https://github.com/gtopt-community/gtopt/blob/master/CONTRIBUTING.md)
@@ -115,10 +115,13 @@ SDDP; y predespacho y despacho.
 **[gtopt](https://github.com/gtopt-community/gtopt)**, el núcleo de
 optimización de la operación e inversión de sistemas energéticos, y
 **[gtopt-cases](https://github.com/gtopt-community/gtopt-cases)**, casos
-reales listos para correr: Chile (14 unit commitments diarios del CEN y
-SDDP de 2, 5 y 23 años con los convenios de riego del Laja y del Maule),
-Guatemala (despacho NCP, red PSS®E y SDDP anuales del AMM), Perú (SDDP
-del COES 2026-2029) y Polonia (OPF DC de 3.374 barras). Pronto vienen:
+reales listos para correr: Australia (una semana del NEM del ISP 2026 de
+AEMO), Chile (14 unit commitments diarios del CEN, SDDP de 2, 5 y 23 años
+con los convenios de riego del Laja y del Maule, y las bases PLP de la
+planificación de la transmisión PET 2027 del CEN), Guatemala (despacho NCP,
+red PSS®E y SDDP anuales del AMM), Irlanda (una semana de unit commitment
+del SEM, que se descarga y convierte en tu máquina), Perú (SDDP del COES
+2026-2029) y Polonia (OPF DC de 3.374 barras). Pronto vienen:
 
 - **gtopt-obs-cl**: el observatorio del mercado eléctrico chileno, con
   herramientas para observar, reproducir y analizar el despacho diario
