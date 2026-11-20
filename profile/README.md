@@ -22,7 +22,9 @@ across horizons.
 ### Highlights
 
 - **National scale**: built and validated on the Chilean national system
-  (SEN), with its network, hydro cascades and irrigation agreements.
+  (SEN), with its network, hydro cascades and irrigation agreements;
+  [real cases](https://github.com/gtopt-community/gtopt-cases) from
+  Chile, Guatemala, Peru and Poland are public.
 - **Storage and water values**: reservoirs, cascades, pumped hydro and
   batteries, with water values and opportunity costs per block.
 - **Emissions**: CO₂-eq and local pollutants, caps and prices by zone,
@@ -40,16 +42,17 @@ across horizons.
 
 ### Repositories
 
-We are starting with **[gtopt](https://github.com/gtopt-community/gtopt)**,
-the optimization core for operating and investing in energy systems. More
-modules are on the way:
+Two repositories are available: **[gtopt](https://github.com/gtopt-community/gtopt)**,
+the optimization core for operating and investing in energy systems, and
+**[gtopt-cases](https://github.com/gtopt-community/gtopt-cases)**, real
+power-system cases ready to run with it. More modules are on the way:
 
 | Repository | What it is | Status |
 |---|---|---|
 | [gtopt](https://github.com/gtopt-community/gtopt) | Optimization core for the operation and expansion of energy systems: solver, Python tools, browser GUI and web service | Available |
 | gtopt-obs-cl | Observatory of the Chilean electricity market: tools to observe, reproduce and analyse the daily dispatch of the SEN | Coming soon |
 | gtopt-bidmark | Bid-based market platform | Coming soon |
-| gtopt-cases | Reference cases: daily scheduling, medium- and long-term scheduling and expansion studies, starting with Chile and open to other power systems | Coming soon |
+| [gtopt-cases](https://github.com/gtopt-community/gtopt-cases) | Real power-system cases built from data published by system operators: Chile (14 daily unit commitments, SDDP of 2, 5 and 23 years with the Laja and Maule irrigation agreements), Guatemala (NCP dispatch, PSS®E network, annual SDDP), Peru (COES SDDP 2026-2029) and Poland (3,374-bus DC OPF). Inputs only | Available |
 
 These modules, and others developed together with the user community,
 will be published in this organization.
@@ -58,7 +61,10 @@ will be published in this organization.
 
 - [README and quick start](https://github.com/gtopt-community/gtopt#quick-start)
 - [Documentation](https://gtopt-community.github.io/gtopt/)
+- [Real cases to run: gtopt-cases](https://github.com/gtopt-community/gtopt-cases)
+  (Chile, Guatemala, Peru, Poland)
 - [Questions and ideas: Discussions](https://github.com/gtopt-community/gtopt/discussions)
+  ([announcements](https://github.com/gtopt-community/gtopt/discussions/categories/announcements))
 - [Contributing](https://github.com/gtopt-community/gtopt/blob/master/CONTRIBUTING.md)
   (a CLA is required for pull requests)
 - [Licensing](https://github.com/gtopt-community/gtopt/blob/master/LICENSING.md):
@@ -105,18 +111,19 @@ SDDP; y predespacho y despacho.
 - **Próximo paso**: mercados con ofertas (energía y servicios
   complementarios, suficiencia, derechos de transmisión).
 
-**Repositorios.** Partimos con
+**Repositorios.** Ya están disponibles
 **[gtopt](https://github.com/gtopt-community/gtopt)**, el núcleo de
-optimización de la operación e inversión de sistemas energéticos. Pronto
-vienen:
+optimización de la operación e inversión de sistemas energéticos, y
+**[gtopt-cases](https://github.com/gtopt-community/gtopt-cases)**, casos
+reales listos para correr: Chile (14 unit commitments diarios del CEN y
+SDDP de 2, 5 y 23 años con los convenios de riego del Laja y del Maule),
+Guatemala (despacho NCP, red PSS®E y SDDP anuales del AMM), Perú (SDDP
+del COES 2026-2029) y Polonia (OPF DC de 3.374 barras). Pronto vienen:
 
 - **gtopt-obs-cl**: el observatorio del mercado eléctrico chileno, con
   herramientas para observar, reproducir y analizar el despacho diario
   del SEN.
 - **gtopt-bidmark**: plataforma de mercado de ofertas.
-- **gtopt-cases**: casos de referencia de programación diaria, de
-  mediano y largo plazo y de estudios de expansión, partiendo por Chile
-  y abiertos a sistemas de otros países.
 
 Estos módulos, y otros que se desarrollen con la comunidad de usuarios,
 se incorporarán en esta organización.
