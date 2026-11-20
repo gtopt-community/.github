@@ -49,7 +49,7 @@ modules are on the way:
 | [gtopt](https://github.com/gtopt-community/gtopt) | Optimization core for the operation and expansion of energy systems: solver, Python tools, browser GUI and web service | Available |
 | gtopt-obs-cl | Observatory of the Chilean electricity market: tools to observe, reproduce and analyse the daily dispatch of the SEN | Coming soon |
 | gtopt-bidmark | Bid-based market platform | Coming soon |
-| gtopt-latam | Short- and long-term cases for the countries of the region | Coming soon |
+| gtopt-cases | Reference cases: daily scheduling, medium- and long-term scheduling and expansion studies, starting with Chile and open to other power systems | Coming soon |
 
 These modules, and others developed together with the user community,
 will be published in this organization.
@@ -114,8 +114,9 @@ vienen:
   herramientas para observar, reproducir y analizar el despacho diario
   del SEN.
 - **gtopt-bidmark**: plataforma de mercado de ofertas.
-- **gtopt-latam**: casos de corto y largo plazo de los países de la
-  región.
+- **gtopt-cases**: casos de referencia de programación diaria, de
+  mediano y largo plazo y de estudios de expansión, partiendo por Chile
+  y abiertos a sistemas de otros países.
 
 Estos módulos, y otros que se desarrollen con la comunidad de usuarios,
 se incorporarán en esta organización.
