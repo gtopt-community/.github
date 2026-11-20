@@ -50,9 +50,9 @@ power-system cases ready to run with it. More modules are on the way:
 | Repository | What it is | Status |
 |---|---|---|
 | [gtopt](https://github.com/gtopt-community/gtopt) | Optimization core for the operation and expansion of energy systems: solver, Python tools, browser GUI and web service | Available |
+| [gtopt-cases](https://github.com/gtopt-community/gtopt-cases) | Real power-system cases built from data published by system operators: Australia (NEM week from the AEMO 2026 ISP), Chile (14 daily operation programmes, each scheduling one week, SDDP of 2, 5 and 23 years with the Laja and Maule irrigation agreements, the CEN PET 2027 transmission planning bases), Guatemala (NCP dispatch, PSS®E network, annual SDDP), Ireland (SEM unit-commitment week, fetched and converted on demand), Peru (COES SDDP 2026-2029) and Poland (3,374-bus DC OPF). Inputs only | Available |
 | gtopt-obs-cl | Observatory of the Chilean electricity market: tools to observe, reproduce and analyse the daily dispatch of the SEN | Coming soon |
 | gtopt-bidmark | Bid-based market platform | Coming soon |
-| [gtopt-cases](https://github.com/gtopt-community/gtopt-cases) | Real power-system cases built from data published by system operators: Australia (NEM week from the AEMO 2026 ISP), Chile (14 daily unit commitments, SDDP of 2, 5 and 23 years with the Laja and Maule irrigation agreements, the CEN PET 2027 transmission planning bases), Guatemala (NCP dispatch, PSS®E network, annual SDDP), Ireland (SEM unit-commitment week, fetched and converted on demand), Peru (COES SDDP 2026-2029) and Poland (3,374-bus DC OPF). Inputs only | Available |
 
 These modules, and others developed together with the user community,
 will be published in this organization.
@@ -116,7 +116,7 @@ SDDP; y predespacho y despacho.
 optimización de la operación e inversión de sistemas energéticos, y
 **[gtopt-cases](https://github.com/gtopt-community/gtopt-cases)**, casos
 reales listos para correr: Australia (una semana del NEM del ISP 2026 de
-AEMO), Chile (14 unit commitments diarios del CEN, SDDP de 2, 5 y 23 años
+AEMO), Chile (14 programas diarios de operación del CEN, cada uno de una semana, SDDP de 2, 5 y 23 años
 con los convenios de riego del Laja y del Maule, y las bases PLP de la
 planificación de la transmisión PET 2027 del CEN), Guatemala (despacho NCP,
 red PSS®E y SDDP anuales del AMM), Irlanda (una semana de unit commitment
